@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168329105172",
+    "project_id": "biocad-c032e",
+    "storage_bucket": "biocad-c032e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168329105172:android:00e35652e3fc753bb7bc01",
+        "android_client_info": {
+          "package_name": "com.biocadtemplate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu9kYBmK79aVLqeEgs7MATfrSy-SP8PsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
